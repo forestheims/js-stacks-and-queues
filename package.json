@@ -1,0 +1,23 @@
+{
+  "name": "js-stacks-and-queues",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forestheims/js-stacks-and-queues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forestheims/js-stacks-and-queues/issues"
+  },
+  "homepage": "https://github.com/forestheims/js-stacks-and-queues#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
