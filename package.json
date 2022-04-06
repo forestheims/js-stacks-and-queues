@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "start": "nodemon trees.js"
+    "start": "nodemon persons.js"
   },
   "repository": {
     "type": "git",
