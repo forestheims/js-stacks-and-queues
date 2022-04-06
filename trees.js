@@ -39,6 +39,6 @@ const D = new BinaryTreeNode("D");
 
 // B will be the root of the tree:
 B.add(A);
-// B.add(D);
-// B.add(C);
+B.add(D);
+B.add(C);
 console.log(B);
